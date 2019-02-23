@@ -2,12 +2,12 @@
 RN basic stuff; Start projects
 
 # Environmental Variables Needed
-(MAC) "user" - to be replaced with real user</br>
-export ANDROID_HOME=/Users/"user"/Library/Android/sdk
-export ANDROID_AVD_HOME=/Users/"user"/.android/avd
-export ANDROID_SDK_ROOT=/Users/"user"/Library/Android/sdk
-export PATH="$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools:$PATH"
-export PATH="$ANDROID_SDK_ROOT/emulator:$ANDROID_AVD_HOME:$PATH"
+*(MAC) "user" - to be replaced with real user*</br>
+export ANDROID_HOME=/Users/"user"/Library/Android/sdk</br>
+export ANDROID_AVD_HOME=/Users/"user"/.android/avd</br>
+export ANDROID_SDK_ROOT=/Users/"user"/Library/Android/sdk</br>
+export PATH="$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools:$PATH"</br>
+export PATH="$ANDROID_SDK_ROOT/emulator:$ANDROID_AVD_HOME:$PATH"</br>
 
 # Android Emulator Commands
 *List of emulators:*<br/>
