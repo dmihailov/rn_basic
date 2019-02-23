@@ -2,7 +2,7 @@
 RN basic stuff; Start projects
 
 # Environmental Variables Needed
-(MAC) "user" - to be replaced with real user
+(MAC) "user" - to be replaced with real user</br>
 export ANDROID_HOME=/Users/"user"/Library/Android/sdk
 export ANDROID_AVD_HOME=/Users/"user"/.android/avd
 export ANDROID_SDK_ROOT=/Users/"user"/Library/Android/sdk
